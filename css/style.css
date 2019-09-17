@@ -1,0 +1,25 @@
+body{
+margin: 0px;
+}
+header{
+padding: 10px 0;
+background: #d8d8d8;
+border-bottom: 1px solid #828080;
+font-size: 40px;
+text-align: center;
+}
+img{
+	display: block;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div{
+	
+font-size: 20px;
+	text-align: center;
+	margin: 0;
+	text-transform: uppercase;
+	margin-left: auto;
+	margin-right: auto;
+}
